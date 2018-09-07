@@ -37,5 +37,5 @@ The IPython Notebook `features.ipynb` will walk you through this exercise, in wh
 **NOTE**
 The Ipython notebooks also require you to complete the code in certain functions which are also present in this folder. Comments are present to show the are where you're supposed to add your code. 
 
-**Credits : **
+**Credits**
 Stanford University CS231n course, 2017 : http://cs231n.stanford.edu/2017/
